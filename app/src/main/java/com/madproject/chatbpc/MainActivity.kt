@@ -18,9 +18,9 @@ import org.json.JSONArray
 import org.json.JSONObject
 import java.io.IOException
 import kotlin.math.pow
-//Mobile Application Development 213 Finals Project
-//Programming Instructor Sir Migs Gatchalian
-//Team Lead/Prog 1: D. Cayanes | Technical Writer: A.P. Fernandez | Programmer: J. Del Prado | System Analyst: K.H. Marquez
+// Mobile Application Development 213 | Finals Project | ChatBPC:AiChat-Buddy
+// Programming Instructor Mr. Migs Gatchalian
+// Team Lead/Prog 1: D. Cayanes | Technical Writer: A.P. Fernandez | Programmer: J. Del Prado | System Analyst: K.H. Marquez
 
 class MainActivity : AppCompatActivity() {
 
