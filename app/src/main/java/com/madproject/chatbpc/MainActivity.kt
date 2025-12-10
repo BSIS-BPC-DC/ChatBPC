@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
         val apiKey = "Can't show my API"
 
         val json = JSONObject().apply {
-            put("model", "x-ai/grok-4.1-fast:free")
+            put("model", "mistralai/devstral-2512:free")
             put("messages", JSONArray().apply {
                 put(JSONObject().apply {
                     put("role", "user")
